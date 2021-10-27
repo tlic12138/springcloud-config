@@ -1,3 +1,3 @@
 # springcloud-config
 springcloud-config
-我试试
+test
